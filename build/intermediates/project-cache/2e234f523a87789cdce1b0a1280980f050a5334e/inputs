@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=7fe9ea4271cac4ce368b579f3e72d33e09004fa5
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

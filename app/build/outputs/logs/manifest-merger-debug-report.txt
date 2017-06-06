@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aska/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c886c93f20797fd58d0bd72be4e2d6fb/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:70-100
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:4:5-14:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aska/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c886c93f20797fd58d0bd72be4e2d6fb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aska/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c886c93f20797fd58d0bd72be4e2d6fb/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:6:9-35
+	android:label
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:5:9-41
+	android:roundIcon
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:5:42-87
+	android:icon
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:4:45-79
+	android:allowBackup
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:4:18-44
+	android:theme
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:6:36-67
+activity#sinau.com.fistkotlin.MainActivity
+ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:7:9-13:20
+	android:name
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:7:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:8:13-12:29
+action#android.intent.action.MAIN
+ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:9:17-69
+	android:name
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:9:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aska/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c886c93f20797fd58d0bd72be4e2d6fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/aska/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c886c93f20797fd58d0bd72be4e2d6fb/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/e0fafea9780cfeb21ed20f69d8f38c43/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40ea540cee9132543f7514dec05aae87/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/38918060d1223db572d82615b69d35b5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/95d59cf7644861f346b9a9aa7f40a85e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/99e209614a2b9bc89020292b86e90af2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/d30c0a022399e86d277f5af50cf2f15e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/13441d9bd306ebd5ca9e7ad80add21f4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/e6a9398abdc8e966a436e2c79327a2b8/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher_round.png",
+        "source": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

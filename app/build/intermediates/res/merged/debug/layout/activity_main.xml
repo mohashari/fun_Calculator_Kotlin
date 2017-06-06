@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/android_horizontal_layout"
+    android:layout_height="match_parent" tools:context="sinau.com.fistkotlin.MainActivity">
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Fun Calculator"
+       android:gravity="center"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/bil1"
+            android:inputType="number"
+            android:hint="Bil 1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_antar_content"/>
+        <EditText
+            android:id="@+id/bil2"
+            android:inputType="number"
+            android:hint="bil 2"
+            android:layout_toRightOf="@id/bil1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_antar_content"/>
+
+    </RelativeLayout>
+    <Button
+        android:id="@+id/btnJml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jumlah"/>
+    <Button
+        android:id="@+id/btnMin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kurang"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Result"/>
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="0"
+        android:textSize="@android:dimen/notification_large_icon_height"/>
+
+</LinearLayout>

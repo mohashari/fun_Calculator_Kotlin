@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aska/AndroidStudioProjects/isfa/FistKotlin/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aska/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/6984f678fd8f83a9a7d61f532e35e77a/res/layout-v21/notification_action.xml"
+    }
+]
